@@ -1,0 +1,3 @@
+[submodule "BitcoinLib"]
+	path = BitcoinLib
+	url = https://github.com/nixxholas/BitcoinLib.git

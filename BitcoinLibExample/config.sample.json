@@ -1,0 +1,12 @@
+﻿{
+  "BitcoinPubKey": "",
+  "BitcoinPrivKey": "", // Strictly Local. Do not distribute this.
+  "BTCNodeDaemonURL": "http://bitcoincoreurl:8332",
+  "BTCNodeJsonRPCUser": "xcxcz",
+  "BTCNodeJsonRPCPass": "xxxxxxxxxxxx"
+  "DogecoinPubKey": "",
+  "DogecoinPrivKey": "", // Strictly Local. Do not distribute this.
+  "DOGENodeDaemonURL": "dogecoinurl:8332",
+  "DOGENodeJsonRPCUser": "zxczxzc",
+  "DOGENodeJsonRPCPass": "xxxxx"
+}
